@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying yui'
+                echo 'Deploying 1232'
             }
         }
     }
